@@ -14,6 +14,7 @@
 		BDC4A78F2C58FE1400D1810C /* _ndPagePickTheKillerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC4A78E2C58FE1400D1810C /* _ndPagePickTheKillerTests.swift */; };
 		BDC4A7992C58FE1400D1810C /* _ndPagePickTheKillerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC4A7982C58FE1400D1810C /* _ndPagePickTheKillerUITests.swift */; };
 		BDC4A79B2C58FE1400D1810C /* _ndPagePickTheKillerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC4A79A2C58FE1400D1810C /* _ndPagePickTheKillerUITestsLaunchTests.swift */; };
+		BDC4A7A82C591C1D00D1810C /* typewriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC4A7A72C591C1D00D1810C /* typewriter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BDC4A7942C58FE1400D1810C /* 2ndPagePickTheKillerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2ndPagePickTheKillerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDC4A7982C58FE1400D1810C /* _ndPagePickTheKillerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _ndPagePickTheKillerUITests.swift; sourceTree = "<group>"; };
 		BDC4A79A2C58FE1400D1810C /* _ndPagePickTheKillerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _ndPagePickTheKillerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BDC4A7A72C591C1D00D1810C /* typewriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = typewriter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				BDC4A77D2C58FE1300D1810C /* _ndPagePickTheKillerApp.swift */,
 				BDC4A77F2C58FE1300D1810C /* ContentView.swift */,
+				BDC4A7A72C591C1D00D1810C /* typewriter.swift */,
 				BDC4A7812C58FE1400D1810C /* Assets.xcassets */,
 				BDC4A7832C58FE1400D1810C /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDC4A7802C58FE1300D1810C /* ContentView.swift in Sources */,
+				BDC4A7A82C591C1D00D1810C /* typewriter.swift in Sources */,
 				BDC4A77E2C58FE1300D1810C /* _ndPagePickTheKillerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
